@@ -1,0 +1,4 @@
+Name - Nastya
+Age - 28
+Number of pets - 1
+Salary - 1000$
