@@ -1,1 +1,4 @@
-
+Summary: There isn't opportynity to enter the number 9.
+Steps: Press the button "9".
+Actual result: the button "9" doesn't work.
+Expected result: the number 9 is on display.
